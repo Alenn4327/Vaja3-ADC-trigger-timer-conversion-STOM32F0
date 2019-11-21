@@ -1,5 +1,5 @@
 # Vaja3-ADC-trigger-timer-conversion-STOM32F0
-<h1>Vaja3-ADC-trigger-timer-conversion-STOM32F0<h/1>
+
 <h3> Glede na vašo razvojno ploščo in razširitveno vezje s tipkami ter potenciometri, izberite ustrezni analogni vhod. Kateri pin je to?</h3>
 <p>PC0</p>
 
